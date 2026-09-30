@@ -1,9 +1,8 @@
 # J-liamedeiros-jpg
-const sobreMim = {
-  nome: "Júlia Medeiros de Santana 👩🏻‍💻",
-  perfil: "Estudante",
 
-  sobre: `
+  nome: "Júlia Medeiros de Santana 👩🏻‍💻",
+  
+   sobre: `
     Olá! 👋
     Me chamo Júlia Medeiros de Santana, estudante,
 cursando o segundo ano do ensino médio com curso técnico
